@@ -12,13 +12,13 @@ _Note: This is a rewrite of my older version and currently includes fundamental 
   - Greedy Meshing Algorithm
 
 - World Generation
-  - Perlin Noise Terrain Generation using Seed
+  - Perlin Noise Terrain Generation using Seeds
 
 ## Planned Features
 
-- Occlusion culling for adjacent block faces
+- Occlusion Culling for Adjacent Block Faces
 
 ## Older version
 
-If you'd like, you may tryout the fully working game for yourself:
+If you'd like, you may tryout the older and fully working game for yourself:
 [mineblokz - Roblox Game](https://www.roblox.com/games/15610760492/mineblokz)
